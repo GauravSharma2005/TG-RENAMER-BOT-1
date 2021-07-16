@@ -9,24 +9,24 @@ Please Give a ⭐ if you like this repo and also try following me for more best 
 ## Mapping
 [Deploy to Heroku 🗳](https://github.com/GauravSharma2005/TG-RENAMER-BOT-1#deploy-to-heroku-)
 
-[Bot Features 🔥](https://github.com/Ns-Bots/TG-RENAMER-BOT#bot-features-)
+[Bot Features 🔥](https://github.com/Ns-Bots/TG-RENAMER-BOT-1#bot-features-)
 
-[Required Vars 💥](https://github.com/Ns-Bots/TG-RENAMER-BOT#required-vars-)
+[Required Vars 💥](https://github.com/Ns-Bots/TG-RENAMER-BOT-1#required-vars-)
 
-[Optional Vars 💬](https://github.com/Ns-Bots/TG-RENAMER-BOT#optional-vars-)
+[Optional Vars 💬](https://github.com/Ns-Bots/TG-RENAMER-BOT-1#optional-vars-)
 
-[Available Commands 🤖](https://github.com/Ns-Bots/TG-RENAMER-BOT#available-commands-)
+[Available Commands 🤖](https://github.com/Ns-Bots/TG-RENAMER-BOT-1#available-commands-)
 
-[Dev 🧑‍💻](https://github.com/Ns-Bots/TG-RENAMER-BOT#dev-)
+[Dev 🧑‍💻](https://github.com/Ns-Bots/TG-RENAMER-BOT-1#dev-)
 
-[TODO 🤧](https://github.com/Ns-Bots/TG-RENAMER-BOT#todo-)
+[TODO 🤧](https://github.com/Ns-Bots/TG-RENAMER-BOT-1#todo-)
 
-[Thanks And Credits 🎉](https://github.com/Ns-Bots/TG-RENAMER-BOT#thanks-and-credits-)
+[Thanks And Credits 🎉](https://github.com/Ns-Bots/TG-RENAMER-BOT-1#thanks-and-credits-)
 
 ## Deploy to Heroku 🗳
 Press the following button to deploy in heroku.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ns-Bots/TG-RENAMER-BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ns-Bots/TG-RENAMER-BOT-1)
 
 ## Bot Features 🔥
 - Renaming Telegram files as file or video.
