@@ -10,10 +10,10 @@
         "renamer"
     ],
 
-    "repository": "https://github.com/Ns-AnoNymouS/Renamer",
+    "repository": "https://github.com/Gauravsharma2005/TG-RENAMER-BOT-1",
     "stack": "heroku-20",
-    "website": "https://t.me/Ns_bot_updates",
-    "success_url": "https://t.me/RenamerNs_bot",
+    "website": "https://t.me/HindiHDHungama",
+    "success_url": "https://t.me/IsmartGaurav",
 
     "env": {
         "API_HASH": {
@@ -46,7 +46,7 @@
             "required": false
         },
         "OWNER_ID": {
-            "description": "Your Telegram user id, Get this from @FileStore_Nsbot."
+            "description": "Your Telegram user id, Get this from @TGIdsBot."
         },
         "ENV": {
             "description": "Set it to anything to enable configuration by environment variables.",
