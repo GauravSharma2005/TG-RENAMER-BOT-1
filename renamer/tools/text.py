@@ -18,9 +18,11 @@ class TEXT:
 
 ** Developer:** {bot_owner}
 
-** Channel:** [PublicBotz](https://t.me/PublicBotz)
+** Channel:** [@TG_GlobalTube](https://t.me/TG_GlobalTube)
 
 ** Join Movies Channel :** [HindiHDHungama](https://t.me/HindiHDHungama)
+
+** Need Bot Like Me Just Contact My Developer @IamIronBoy 
 
 ** Source Code:** 🖕🖕🖕🖕
 """
