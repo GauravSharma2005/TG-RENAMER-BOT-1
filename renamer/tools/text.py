@@ -15,18 +15,14 @@ class TEXT:
     ABOUT = """**𝖬𝗒 𝖣𝖾𝗍𝖺𝗂𝗅𝗌 :**
 
 ** My Name:** {bot_name}
-    
-** Language:** [Python 3](https://www.python.org/)
-
-** FrameWork:** [Pyrogram](https://github.com/pyrogram/pyrogram)
 
 ** Developer:** {bot_owner}
 
-** Channel:** [NS BOT UPDATES](https://t.me/Ns_bot_updates)
+** Channel:** [PublicBotz](https://t.me/PublicBotz)
 
-** Group:** [Ns BOT SUPPORT](https://t.me/HindiHDHungama)
+** Join Movies Channel :** [HindiHDHungama](https://t.me/HindiHDHungama)
 
-** Source Code:** [🖕]()
+** Source Code:** 🖕🖕🖕🖕
 """
 
     HELP_USER = """**Follow Below Steps:**
@@ -42,6 +38,7 @@ class TEXT:
     START_TEXT = """Hi {user_mention},
 
 I am a telegram renamer with permanent thumbnail.
+
 Created By @IAmIronBoy 
 
 𝖥𝗈𝗋 𝖬𝗈𝗋𝖾 𝖣𝖾𝗍𝖺𝗂𝗅𝗌 𝖲𝖾𝖾 𝖧𝖾𝗅𝗉.
